@@ -1,4 +1,4 @@
 #print('Hello world')
 # #import pacote.sub.arquivo
 
-import tipos.variaveis
+import tipos import variaveis, basicos
